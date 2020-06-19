@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Training-SocialNetwork-/static/css/main.655f29e0.chunk.css",
+    "main.js": "/Training-SocialNetwork-/static/js/main.792e9cc6.chunk.js",
+    "main.js.map": "/Training-SocialNetwork-/static/js/main.792e9cc6.chunk.js.map",
+    "runtime-main.js": "/Training-SocialNetwork-/static/js/runtime-main.78dbe226.js",
+    "runtime-main.js.map": "/Training-SocialNetwork-/static/js/runtime-main.78dbe226.js.map",
+    "static/js/2.b90545a4.chunk.js": "/Training-SocialNetwork-/static/js/2.b90545a4.chunk.js",
+    "static/js/2.b90545a4.chunk.js.map": "/Training-SocialNetwork-/static/js/2.b90545a4.chunk.js.map",
+    "static/css/3.25896f45.chunk.css": "/Training-SocialNetwork-/static/css/3.25896f45.chunk.css",
+    "static/js/3.e6533b1e.chunk.js": "/Training-SocialNetwork-/static/js/3.e6533b1e.chunk.js",
+    "static/js/3.e6533b1e.chunk.js.map": "/Training-SocialNetwork-/static/js/3.e6533b1e.chunk.js.map",
+    "static/css/4.f50674be.chunk.css": "/Training-SocialNetwork-/static/css/4.f50674be.chunk.css",
+    "static/js/4.bc247b4c.chunk.js": "/Training-SocialNetwork-/static/js/4.bc247b4c.chunk.js",
+    "static/js/4.bc247b4c.chunk.js.map": "/Training-SocialNetwork-/static/js/4.bc247b4c.chunk.js.map",
+    "static/css/5.522cfa3f.chunk.css": "/Training-SocialNetwork-/static/css/5.522cfa3f.chunk.css",
+    "static/js/5.36612269.chunk.js": "/Training-SocialNetwork-/static/js/5.36612269.chunk.js",
+    "static/js/5.36612269.chunk.js.map": "/Training-SocialNetwork-/static/js/5.36612269.chunk.js.map",
+    "index.html": "/Training-SocialNetwork-/index.html",
+    "precache-manifest.225a4dab9987cf4463cf3ac2d986a37f.js": "/Training-SocialNetwork-/precache-manifest.225a4dab9987cf4463cf3ac2d986a37f.js",
+    "service-worker.js": "/Training-SocialNetwork-/service-worker.js",
+    "static/css/3.25896f45.chunk.css.map": "/Training-SocialNetwork-/static/css/3.25896f45.chunk.css.map",
+    "static/css/4.f50674be.chunk.css.map": "/Training-SocialNetwork-/static/css/4.f50674be.chunk.css.map",
+    "static/css/5.522cfa3f.chunk.css.map": "/Training-SocialNetwork-/static/css/5.522cfa3f.chunk.css.map",
+    "static/css/main.655f29e0.chunk.css.map": "/Training-SocialNetwork-/static/css/main.655f29e0.chunk.css.map",
+    "static/js/2.b90545a4.chunk.js.LICENSE.txt": "/Training-SocialNetwork-/static/js/2.b90545a4.chunk.js.LICENSE.txt",
+    "static/js/4.bc247b4c.chunk.js.LICENSE.txt": "/Training-SocialNetwork-/static/js/4.bc247b4c.chunk.js.LICENSE.txt",
+    "static/media/userPhoto.jpg": "/Training-SocialNetwork-/static/media/userPhoto.5679d6c1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78dbe226.js",
+    "static/js/2.b90545a4.chunk.js",
+    "static/css/main.655f29e0.chunk.css",
+    "static/js/main.792e9cc6.chunk.js"
+  ]
+}
